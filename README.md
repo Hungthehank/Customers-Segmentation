@@ -1,7 +1,7 @@
 # Customers-Segmentation
 Use Python Programming for customers segmentation, create a campaign to reward loyal customers, and attract potential customers to buy more often.
 
-- Link drive contain: Ecommerce Retail dataset, Segmentation file, Recommendation, code
+- Link drive contain: Ecommerce Retail dataset, Segmentation file, code, Recommendation.
   https://drive.google.com/drive/folders/1NjvF-VSmQH72BBrkLzCy1lwvoBm_8BoQ?usp=drive_link
   
 - Context:
