@@ -101,7 +101,7 @@ The distribution of scores in the 3 criteria (Recency, Frequency, Monetary) does
 ![image](https://github.com/user-attachments/assets/6299cb45-64b5-426b-82d9-104a8933f381)
 ![image](https://github.com/user-attachments/assets/c5932807-9ea0-4231-bdac-88ddb2c64c4c)
 
-![image](https://github.com/user-attachments/assets/8218d432-e9c8-450c-b9ae-c6be1f13182c)
+![image](https://github.com/user-attachments/assets/e5461f6f-67e9-46fc-a0c9-738b428e518a)
 ![image](https://github.com/user-attachments/assets/2145eccb-d859-4b4a-8246-5b4c81618efd)
 
 ## 5. Recommendation
