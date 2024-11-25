@@ -87,6 +87,22 @@ Country distribution
 ![image](https://github.com/user-attachments/assets/f3bcc345-b48e-46f1-b345-f8597a6ad1fb)
 The distribution of scores in the 3 criteria (Recency, Frequency, Monetary) does not differ much.
 
+### Customer distribution of segmentation
+![image](https://github.com/user-attachments/assets/35c42883-cf5b-495b-b9fa-4bcf1095d5d5)
+![image](https://github.com/user-attachments/assets/db035b94-26f0-4e40-b99a-118518f4d9e4)
+
+### Segment by customer, segmet by total sales
+![image](https://github.com/user-attachments/assets/2a93a231-3417-413a-a036-583e47a5cf3f)
+![image](https://github.com/user-attachments/assets/e27a9ac7-db6f-4e8b-8714-9ddf4d305b8a)
+
+![image](https://github.com/user-attachments/assets/6299cb45-64b5-426b-82d9-104a8933f381)
+![image](https://github.com/user-attachments/assets/c5932807-9ea0-4231-bdac-88ddb2c64c4c)
+
+![image](https://github.com/user-attachments/assets/8218d432-e9c8-450c-b9ae-c6be1f13182c)
+![image](https://github.com/user-attachments/assets/2145eccb-d859-4b4a-8246-5b4c81618efd)
+
 ## 5. Recommendation
-    
+- After segmentation: The Hibernating customers and Champions groups account for a larger number of consumers than the other groups. However, the Hibernating group only accounts for **3.8%** of total revenue, much less than the revenue from the Champions and Loyal customer groups (**59.5%** and **10.8%** respectively). We don't need to worry much.
+- Focus gratitude work on groups: **Champions, Loyal**.
+- Focus on attracting potential customers: **New Customers, Potential Loyalist**.
 
